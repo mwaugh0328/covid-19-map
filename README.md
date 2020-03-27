@@ -6,6 +6,8 @@ Creates a map using data from @nytimes that tracks the spread of Covid-19. Map t
 
 - https://github.com/nytimes/covid-19-data
 
-<figure class="video_container">
-<iframe src="https://mwaugh0328.github.io/covid-19-map/us_covid_map.html" style="width:875px; height: 555px; border: none;"></iframe>
+```html
+<figure>
+<iframe src="https://mwaugh0328.github.io/covid-19-map/us_covid_map.html" style="width:875px; height:555px; border:none;"></iframe>
 </figure>
+```
