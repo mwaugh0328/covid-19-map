@@ -11,11 +11,10 @@ Creates a map using data from @nytimes that tracks the spread of Covid-19. Map t
 <pre>
     <div class="container">
         <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-  <iframe src="https://mwaugh0328.github.io/consumption_and_tradewar/us_china_exports_map.html" style="width:875px; height: 555px; border: none;"></iframe>
+            <h2>Your title</h2>          
+            <div>
+            <iframe src="https://mwaugh0328.github.io/consumption_and_tradewar/us_china_exports_map.html"
+            style="width:875px; height: 555px; border: none;"></iframe>
             </div>
-        </div>
-    </div>
 </pre>
 ```
