@@ -13,3 +13,5 @@ The jupyter notebook [``us-covid-19-map.ipynb``](us-covid-19-map.ipynb) download
   [https://mwaugh0328.github.io/covid-19-map/us_covid_map.html](https://mwaugh0328.github.io/covid-19-map/us_covid_map.html)
 
 - Currently the hover tool just reports county name, cases, deaths, and population from the US Census. More could be done here, e.g. cases per 100,000, mortality rates, age distribution of county, etc.
+
+- in the future, might be hosted on my website at [https://www.waugheconomics.com/](https://www.waugheconomics.com/)
